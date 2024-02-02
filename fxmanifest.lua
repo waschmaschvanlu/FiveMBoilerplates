@@ -20,3 +20,10 @@ shared_scripts {
     --'@ox_lib/init.lua',
     "shared/*.lua",
 }
+
+files {
+    'html/index.html',
+    'html/style.css',
+    'html/reset.css',
+    'html/listener.js'
+}
